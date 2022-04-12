@@ -230,6 +230,72 @@
       "store": "La Favorita",
       "store_address": "Calle 101, Esq. 26, Cotorro",
       "store_type": "TRD"
+    },
+    {
+      "_id": "6237686a8243fa4ecbb82422",
+      "brand": "TBKIDS",
+      "brand_detail": "PREMIUM PLUS",
+      "date": "2022-04-11",
+      "size": "M",
+      "category": "PAMPER",
+      "store": "Tiendas Panamericanas Pinar del Río",
+      "store_address": "Pinar del Río",
+      "store_type": "TRD"
+    },
+    {
+      "_id": "6237686a8243fa4ecbb82423",
+      "brand": "TBKIDS",
+      "brand_detail": "PREMIUM PLUS",
+      "date": "2022-04-11",
+      "size": "M",
+      "category": "PAMPER",
+      "store": "Tiendas Panamericanas Matanzas",
+      "store_address": "Matanzas",
+      "store_type": "TRD"
+    },
+    {
+      "_id": "6237686a8243fa4ecbb824b5",
+      "brand": "TBKIDS",
+      "brand_detail": "PREMIUM PLUS",
+      "date": "2022-04-11",
+      "size": "M",
+      "category": "PAMPER",
+      "store": "Tiendas Panamericanas Sancti Spíritus",
+      "store_address": "Sancti Spíritus",
+      "store_type": "TRD"
+    },
+    {
+      "_id": "6237686a8243fa4ecbb824b5",
+      "brand": "TBKIDS",
+      "brand_detail": "PREMIUM PLUS",
+      "date": "2022-04-11",
+      "size": "M",
+      "category": "PAMPER",
+      "store": "Tiendas Panamericanas Villa Clara",
+      "store_address": "Villa Clara",
+      "store_type": "TRD"
+    },
+    {
+      "_id": "6237686a8243fa4ecbb824b5",
+      "brand": "TBKIDS",
+      "brand_detail": "PREMIUM PLUS",
+      "date": "2022-04-11",
+      "size": "M",
+      "category": "PAMPER",
+      "store": "Tiendas Panamericanas Camagüey",
+      "store_address": "Camagüey",
+      "store_type": "TRD"
+    },
+    {
+      "_id": "6237686a8243fa4ecbb824b5",
+      "brand": "TBKIDS",
+      "brand_detail": "PREMIUM PLUS",
+      "date": "2022-04-11",
+      "size": "M",
+      "category": "PAMPER",
+      "store": "Tiendas Panamericanas Las Tunas",
+      "store_address": "Las Tunas",
+      "store_type": "TRD"
     }
   ]
 }
